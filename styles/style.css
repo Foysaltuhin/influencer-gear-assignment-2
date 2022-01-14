@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+     position: absolute;
+     left: 8.33%;
+}
+h1{
+    font-size: 50px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+     position: absolute;
+    width: 1047px;
+    height: 1662px;
+    left: 196px;
+    top: 935px;
+
+}
+.section-1{
+    display: flex;
+}
+.div-1{
+    display:flex;
+}
+.influencer{
+    position: absolute;
+    width: 582px;
+    height: 270px;
+    left: 120px;
+    top: 285px;
+
+}
+.div-2{
+    position: absolute;
+    width: 440px;
+    height: 414px;
+    left: 835px;
+    top: 211px;
+
+}
+.logos{
+    position: absolute;
+    width: 1110px;
+    height: 110px;
+    left: 165px;
+    top: 725px;
+
+}
+.logos-size{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    left: 16.59%;
+    right: 80.87%;
+    top: 23.17%;
+    bottom: 76.28%;
+    padding-left: 20px;
+}
+
