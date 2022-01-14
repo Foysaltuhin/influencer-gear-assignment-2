@@ -33,7 +33,17 @@ main{
     height: 270px;
     left: 120px;
     top: 285px;
-
+}
+.link-button{
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.fa-arrow{
+   padding-left: 15px;
 }
 .div-2{
     position: absolute;
@@ -44,21 +54,20 @@ main{
 
 }
 .logos{
+    display: flex;
     position: absolute;
     width: 1110px;
     height: 110px;
     left: 165px;
     top: 725px;
-
 }
 .logos-size{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    left: 16.59%;
-    right: 80.87%;
-    top: 23.17%;
-    bottom: 76.28%;
-    padding-left: 20px;
+    padding: 15px;
+    margin: 15px;
 }
-
+.section-title{
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 30px;
+    color: #E02C6D;
+}
