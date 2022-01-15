@@ -1,7 +1,9 @@
 body{
+    padding: 0;
     margin: 0;
     font-family: sans-serif;
     background: #f2f2f2;
+    box-sizing: border-box;
 }
 h2{
     margin-left: 100px;
@@ -163,6 +165,21 @@ button{
 }
 .buy-8{
     background: chocolate;
+}
+.footer{
+    background: #120E43;
+    width: 100vw;
+    height: auto;
+    font-family: bold;
+    padding-top: 40px;
+    color: #fff;
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
 }
 @media (max-width:1000px) {
 
