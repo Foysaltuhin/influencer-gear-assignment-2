@@ -167,19 +167,10 @@ button{
     background: chocolate;
 }
 .footer{
-    background: #120E43;
-    width: 100vw;
-    height: auto;
-    font-family: bold;
-    padding-top: 40px;
-    color: #fff;
-}
-.footer-content{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    background-color: black;
+    color: cornsilk;
     text-align: center;
+  height: 200px;
 }
 @media (max-width:1000px) {
 
